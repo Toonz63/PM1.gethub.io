@@ -1,9 +1,9 @@
-: root{
-  --bg:#1f0f24; 
-  --card:#2d1433; 
-  --text:#ffe9f6; 
+:root{
+  --bg:#1f0f24;
+  --card:#2d1433;
+  --text:#ffe9f6;
   --accent:#ff7a59;
-  --font: "Segoe UI", Roboto, Helvetica, Arial, sans-serif; /* noticeable font change */
+  --font:"Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 }
 *{box-sizing:border-box}
 html,body{margin:0;padding:0;background:var(--bg);color:var(--text);font-family:var(--font);line-height:1.6}
