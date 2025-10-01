@@ -1,8 +1,8 @@
 : root{
-  --bg:#0f172a;      /* noticeable change: dark theme */
-  --card:#111827;
-  --text:#e5e7eb;
-  --accent:#60a5fa;  /* noticeable change: accent color */
+  --bg:#0b132b; 
+  --card:#1c2541; 
+  --text:#e0e6f6; 
+  --accent:#5bc0be;
   --font: "Segoe UI", Roboto, Helvetica, Arial, sans-serif; /* noticeable font change */
 }
 
